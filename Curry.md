@@ -1,7 +1,3 @@
-Curry.md
-
-Curry Recipe.md
-
 **Chicken Massaman**
 
 - Vegetable Oil
